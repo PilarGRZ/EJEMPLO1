@@ -6,4 +6,4 @@ Nueva línea para el área del working
 Nueva línea en rama verde
 Adiciona nueva línea en rama verde
 Adiciona línea en Master CONFLICTO
-Adiciona en rama amarilla
+Adiciona en rama amarilla- modificación en rama verde
